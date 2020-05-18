@@ -1,5 +1,1 @@
-git init
-git add .
-git commit -m "first commit"
-git remote add origin https://github.com/arabindamahato/Git-Commands.git
-git push -u origin master
+If you want to learn GIT . You could follow these commands. 
